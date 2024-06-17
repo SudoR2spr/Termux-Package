@@ -57,6 +57,9 @@ termux-setup-storage.
    git clone https://github.com/SudoR2spr/Termux-Package
    ```
    ```
+   ls
+   ```
+   ```
    cd Termux-Package
    ```
    ```
@@ -88,4 +91,3 @@ This will take too much time it's depends on your data connection.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7EC00&background=202DEB00&random=false&width=435&lines=%F0%9F%94%A7+Last+Edited+on%3A+06%2F18%2F2024)](https://git.io/typing-svg)</p>
 <p align="center">
------

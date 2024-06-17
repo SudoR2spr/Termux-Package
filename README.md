@@ -57,7 +57,7 @@ termux-setup-storage.
    git clone https://github.com/SudoR2spr/Termux-Package
    ```
    ```
-   cd Termux-package
+   cd Termux-Package
    ```
    ```
    ls

@@ -48,28 +48,28 @@ termux-setup-storage.
  
 ## Termux
    ```
-   $ apt install git 
+   apt install git 
    ```
    ```
-   $ apt install python 
+   apt install python 
    ```
    ```
-   $ git clone https://github.com/SudoR2spr/Termux-Package
+   git clone https://github.com/SudoR2spr/Termux-Package
    ```
    ```
-   $ cd Termux-package
+   cd Termux-package
    ```
    ```
-   $ ls
+   ls
    ```
    ```
-   $ chmod +x *
+   chmod +x *
    ```
    ```
-   $ ls
+   ls
    ```
    ```
-   $ python termux-package.py
+   python termux-package.py
 ```
 
 This will take too much time it's depends on your data connection. 

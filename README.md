@@ -6,7 +6,7 @@
 <img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="100%">
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=1BF700&background=202DEB00&random=false&width=435&lines=%F0%9F%94%A7+Termux+Basic+Packages+quickly+Install)](https://git.io/typing-svg)</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=110CF7&background=202DEB00&random=false&width=435&lines=%F0%9F%94%A7+Termux+Basic+Packages;%F0%9F%94%A7+Quick+Install)](https://git.io/typing-svg)</p>
 <p align="center">
 
 # Termux Basic Packages  
@@ -86,6 +86,6 @@ This will take too much time it's depends on your data connection.
 -----
 ## Credits: [𝐖𝐎𝐎𝐃𝐜𝐫𝐚𝐟𝐭](https://t.me/Farooq_is_KING)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7EC00&background=202DEB00&random=false&width=435&lines=%F0%9F%94%A7+Last+Edited+on%3A+06%2F17%2F2024)](https://git.io/typing-svg)</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7EC00&background=202DEB00&random=false&width=435&lines=%F0%9F%94%A7+Last+Edited+on%3A+06%2F18%2F2024)](https://git.io/typing-svg)</p>
 <p align="center">
 -----
